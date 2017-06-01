@@ -2,8 +2,8 @@
 ------------------------------------------------------------------------
 
 Arguments:
-    - -D - date of wallpapers
-    - -R - resolution of wallpapers
-    - -P - postfix of directory that will store wallpapers
+    * -D - date of wallpapers
+    * -R - resolution of wallpapers
+    * -P - postfix of directory that will store wallpapers
 
 *Just run `python main.py` in console.*
